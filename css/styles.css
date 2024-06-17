@@ -478,6 +478,11 @@ body{
 
 /* =====FOOTER SUBSCRIBE FORM STYLES ===== */
 
+.footer-description{
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
 .footer-subscribe-form{
     display: flex;
     gap: 24px;
@@ -504,12 +509,13 @@ body{
     height: 40px;
     font-weight: 500;
     font-size: 16px;
+    line-height: 1.5;
     letter-spacing: 0.04em;
     text-align: center;
     justify-content: center;
     align-items: center;
     padding: 8px 24px;
-    fill: var(--white);
+    color: var(--white);
     background-color: var(--iris);
     border: none;
     border-radius: 4px;
