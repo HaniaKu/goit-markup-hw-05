@@ -658,13 +658,8 @@ margin-bottom: 16px;
     border: 1px solid var(--iris);
     outline: transparent;
   }
-  
-  /* */
-  .review-form-field-wrapper {
-    margin-bottom: 8px;
-  }
 
-  .review-form-field-wrapper-comment {
+  .review-form-modal-textarea{
     margin-bottom: 16px;
   }
 
@@ -683,6 +678,7 @@ margin-bottom: 16px;
     position: relative;
   }
   .review-form-comment {
+    font-weight: 400;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
