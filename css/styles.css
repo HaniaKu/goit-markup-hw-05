@@ -478,6 +478,10 @@ body{
 
 /* =====FOOTER SUBSCRIBE FORM STYLES ===== */
 
+.footer-subscribe-box{
+    margin-left: auto;
+}
+
 .footer-description{
     font-weight: 500;
     margin-bottom: 16px;
